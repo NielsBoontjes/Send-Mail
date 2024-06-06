@@ -1,2 +1,3 @@
-**# Send-Mail
-Send an automatic mail of an update
+# Send-Mail
+Verstuur een automatische update via een mail
+##functie 
